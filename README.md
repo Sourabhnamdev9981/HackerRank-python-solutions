@@ -47,7 +47,7 @@ To improve problem-solving skills and build consistency in coding practice using
 
 ## 🔗 My HackerRank Profile
 
-[Add your profile link here]
+[MY HackerRank Profile](https://www.hackerrank.com/profile/sourabh1122004)
 
 ---
 
