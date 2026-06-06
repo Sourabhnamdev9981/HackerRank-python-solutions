@@ -34,7 +34,7 @@ hackerrank-python-solutions/
 - Functions  
 - Strings  
 - Lists & Tuples  
-- Sets & Dictionaries  
+- Sets & Dictionaries
 - Problem Solving  
 
 ---
