@@ -54,7 +54,7 @@ To improve problem-solving skills and build consistency in coding practice using
 ## 📌 Note
 
 - All solutions are maintained in a single notebook for simplicity  
-- Problems are organized using headings for easy navigation  
+- Problems are organized using headings for easy navigation
 - Code is written with clarity and readability in mind  
 
 
